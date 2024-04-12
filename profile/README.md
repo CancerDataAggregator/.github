@@ -8,10 +8,11 @@ Currently, CDA-python can be used to query data from:
 - [The Genomic Data Commons (GDC)](https://portal.gdc.cancer.gov/)
 - [The Proteomic Data Commons (PDC)](https://pdc.cancer.gov/pdc/)
 - [The Imaging Data Commons (IDC)](https://portal.imaging.datacommons.cancer.gov/)
+- [Cancer Data Services (CDS)](https://dataservice.datacommons.cancer.gov/#/home)
 
 See our documentation here: https://cda.readthedocs.io/
 
-Or [click here](https://mybinder.org/v2/gh/CancerDataAggregator/readthedocs/HEAD?labpath=docs%2FExamples%2FWelcome.ipynb) to try a no install version right in your browser!
+Or [click here](https://colab.research.google.com/github/CancerDataAggregator/Community-Notebooks/blob/main/Tutorials/Welcome.ipynb) to try a no install version right in your browser!
 
 <!--
 
