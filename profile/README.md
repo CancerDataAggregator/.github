@@ -8,7 +8,8 @@ Currently, CDA-python can be used to query data from:
 - [The Genomic Data Commons (GDC)](https://portal.gdc.cancer.gov/)
 - [The Proteomic Data Commons (PDC)](https://pdc.cancer.gov/pdc/)
 - [The Imaging Data Commons (IDC)](https://portal.imaging.datacommons.cancer.gov/)
-- [Cancer Data Services (CDS)](https://dataservice.datacommons.cancer.gov/#/home)
+- [General Commons(GC) (formerly Cancer Data Services)](https://datacommons.cancer.gov/repository/general-commons)
+- [Integrated Canine Data Commons (ICDC)](https://caninecommons.cancer.gov/#/explore)
 
 See our documentation here: https://cda.readthedocs.io/
 
