@@ -1,8 +1,8 @@
 ## The Cancer Data Aggregator (CDA)
 
 The CDA is an effort to improve findabilty of National Cancer Institute (NCI) data by making it searchable at a single location. 
-We maintain the CDA-python client, a search tool and API for discovering, querying, retrieving, and aggregating data according to a variety of search parameters, such as participant, sample, tissue, disease, or study.
-Currently, CDA-python can be used to query data from:
+We maintain the **cdapython** client, a search tool and API for discovering, querying, retrieving, and aggregating data according to a variety of search parameters, such as participant, sample, tissue, disease, or study.
+Currently, **cdapython** can be used to query data from:
 
 
 - [The Genomic Data Commons (GDC)](https://portal.gdc.cancer.gov/)
